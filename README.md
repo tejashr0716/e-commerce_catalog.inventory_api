@@ -6,7 +6,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-A dynamic, high-performance **E-Commerce Catalog and Inventory Management REST API** built with **Python (Flask)**, **MySQL**, and **vanilla JavaScript**. 
+A dynamic, high-performance **E-Commerce Catalog and Inventory Management REST API** built with **Python (Flask)**, **MySQL**, and **JavaScript**. 
 
 Engineered to showcase dynamic parameterized SQL construction, database indexing strategies, SQL query performance optimization with `EXPLAIN`, and asynchronous DOM updates via the JavaScript Fetch API.
 
