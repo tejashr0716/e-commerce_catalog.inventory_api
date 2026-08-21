@@ -91,3 +91,4 @@ ecommerce-product-catalog/
 ├── requirements.txt
 ├── run.py                    # Entry point
 └── README.md
+# E-commerce Catalog & Inventory API
